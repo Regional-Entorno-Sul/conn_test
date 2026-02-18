@@ -11,7 +11,8 @@ libintl-8.dll;
 libpq.dll;  
 ssleay32.dll;  
 psql.exe.  
-Quando a instalação do SINAN NET servidor é realizada, por padrão é criada uma pasta do banco de dados PostgreSQL na pasta "Arquivos de Programas (x86)". Os arquivos mostrados acima que devem ser copiados para a pasta "conn_test" 
+Quando a instalação do SINAN NET servidor é realizada, por padrão é criada uma pasta do banco de dados PostgreSQL na pasta "Arquivos de Programas (x86)". Os arquivos mostrados acima que devem ser copiados para a pasta "conn_test" estão no seguinte caminho: "C:\Arquivos de Programas (x86)\PostgreSQL\9.0\bin".
+
 
 
 
