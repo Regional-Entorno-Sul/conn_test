@@ -38,11 +38,12 @@ Entre no prompt de comando do Windows (CMD) e acesse a pasta "conn_test" que est
 
 ![x](/pictures/conn_test_pic7.jpg)  
 
-Se houver conexão efetiva com o banco de dados do SINAN NET no servidor, a tela do prompt de comando deverá ficar parecida com a mostrada abaixo, mostrando o local da instalação do sistema (ds_instalacao), número da versão do sistema (no_versao) e os dadoa da última atualização (ds_atualizacao).  
+Se houver conexão efetiva com o banco de dados do SINAN NET no servidor, a tela do prompt de comando deverá ficar parecida com a mostrada abaixo, mostrando o local da instalação do sistema (ds_instalacao), número da versão do sistema (no_versao) e os dados da última atualização (ds_atualizacao).  
 
 ![x](/pictures/conn_test_pic1.jpg)  
 
 Se do contrário não aparecer esses dados, significa que há algum problema impedindo a conexão do PC cliente com o servidor do SINAN NET. Nesse caso, deverá a tela de prompt de comando deverá ficar parecida com a que é mostrada abaixo.  
 
 ![x](/pictures/conn_test_pic2.jpg)  
+
 
