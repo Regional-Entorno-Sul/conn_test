@@ -25,6 +25,7 @@ Todos os arquivos mostrados no item "Arquivos necessários" devem ser copiados p
 ![x](/pictures/conn_test_pic3.jpg)
   
 Depois, faça o download do executável na seção "Releases".  
+Atenção! Senpre use na seção "Releases", o último release disponível.  
 
 ![x](/pictures/conn_test_pic4.jpg)  
 
@@ -45,5 +46,6 @@ Se houver conexão efetiva com o banco de dados do SINAN NET no servidor, a tela
 Se do contrário não aparecer esses dados, significa que há algum problema impedindo a conexão do PC cliente com o servidor do SINAN NET. Nesse caso, deverá a tela de prompt de comando deverá ficar parecida com a que é mostrada abaixo.  
 
 ![x](/pictures/conn_test_pic2.jpg)  
+
 
 
