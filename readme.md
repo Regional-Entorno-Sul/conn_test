@@ -51,3 +51,4 @@ Se ao contrário não aparecer esses dados, significa que há algum problema imp
 Para transformar o arquivo de formato BAT (run_psqlX_batch_versao_1.1.bat) em um arquivo no formato EXE (run_psqlX_V1.1.exe), disponibilizado na área de releases, foi utilizado o utilitário bat2exe (https://bat2exe.net/).  
 Os arquivos no formato DLL e o arquivo "psql.exe" mencionados na seção "Arquivos necessários" são propriedades do PostgreSQL Global Development Group e estão sob licença do PostgreSQL License (www.postgresql.org).  
 O arquivo "run_psqlx.bat" usado como modelo para criar o arquivo "run_psqlX_batch_versao_1.1.bat" vem do projeto SobeFicha (https://github.com/csis2/SobeFicha), sobe direitos do MIT license.  
+
