@@ -1,6 +1,6 @@
 # conn_test
 Testa a conexão do lado cliente com o servidor do SINAN NET.  
-O conn_test pode ser usado antes mesmo da instalação do SINAN NET no PC cliente para testar a conexão deste com o servidor do SINAN, pois se o teste falhar, não adianta implementar o SINAN cliente neste PC, já que não está havendo uma comunicação entre o PC cliente e o servidor. Assim, se não está havendo a comunicação esperada entre os PCs, os SINAN NET do lado cliente não irá funcionar.  
+O conn_test pode ser usado antes mesmo da instalação do SINAN NET no PC cliente para testar a conexão deste com o servidor do SINAN, pois se o teste falhar, não adianta implementar o SINAN cliente neste PC, já que não está havendo uma comunicação entre o PC cliente e o servidor. Assim, se não está havendo a comunicação esperada entre os PCs, o SINAN NET do lado cliente não irá funcionar.  
 ## A aplicação  
 Esse utilitário vem do projeto SobeFicha (https://github.com/csis2/SobeFicha), usando o arquivo "run_psqlx.bat", foi feita uma adaptação que permite o usuário testar facilmente se há uma conexão do PC cliente com o servidor do SINAN NET.  
 ## Arquivos necessários  
@@ -52,6 +52,7 @@ Se ao contrário não aparecer esses dados, significa que há algum problema imp
 Para transformar o arquivo de formato BAT (run_psqlX_batch_versao_1.1.bat) em um arquivo no formato EXE (run_psqlX_V1.1.exe), disponibilizado na área de releases, foi utilizado o utilitário bat2exe (https://bat2exe.net/).  
 Os arquivos no formato DLL e o arquivo "psql.exe" mencionados na seção "Arquivos necessários" são propriedades do PostgreSQL Global Development Group e estão sob licença do PostgreSQL License (www.postgresql.org).  
 O arquivo "run_psqlx.bat" usado como modelo para criar o arquivo "run_psqlX_batch_versao_1.1.bat" vem do projeto SobeFicha (https://github.com/csis2/SobeFicha), sob direitos do MIT license.  
+
 
 
 
